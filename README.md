@@ -1,5 +1,7 @@
 
 # Hospital Management
+
+The Hospital Management System is a comprehensive software solution designed to streamline and automate the day-to-day operations of a hospital or healthcare facility. It serves as a centralized platform for managing various administrative, clinical, and financial tasks efficiently. This system aims to enhance the overall productivity, accuracy, and quality of healthcare services while improving patient care and satisfaction.
 ---
 ## Functions
 ### Admin
